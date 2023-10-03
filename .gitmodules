@@ -1,0 +1,3 @@
+[submodule "Python/pyPOA"]
+	path = Python/pyPOA
+	url = git@github.com:SuwonLee-KMU/pyPOA.git
